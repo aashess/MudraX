@@ -88,8 +88,8 @@ Feel free to fork this repo and submit a pull request.
 
 For questions or collaboration:
 
-* **Email:** [your-email@example.com](mailto:your-email@example.com)
-* **GitHub:** [your-username](https://github.com/your-username)
+* **Email:** [work.aashesh@gmail.com](mailto:work.aashesh@gmail.com)
+* **GitHub:** [aashess](https://github.com/aashess)
 
 
 
