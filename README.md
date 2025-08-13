@@ -1,5 +1,5 @@
 
-````markdown
+
 # MudraX Wallet
 
 A secure, browser-based decentralized application (DApp) for the **Solana blockchain**.  
@@ -34,10 +34,11 @@ It allows users to create and manage HD wallets, request airdrops, check balance
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the repository
+
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
-````
+```
 
 ### 2️⃣ Install dependencies
 
