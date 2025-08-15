@@ -10,7 +10,7 @@ window.Buffer = Buffer;
   const mnemonic = generateMnemonic();
   console.log("🚀 ~ Wallet ~ mnemonic:", mnemonic);
     // let [showseed, setshowseed] = useState(false)
-//   let [seed, setseed] = useState("");
+//   let [seed, setseed] = useState("")
   const seed = mnemonicToSeedSync(mnemonic);
   console.log("🚀 ~ Wallet ~ seed:", seed);
 
