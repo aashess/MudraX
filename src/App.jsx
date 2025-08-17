@@ -3,6 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import Wallet from './wallet'
+import Home from './home'
 
 
 function App() {
@@ -10,7 +11,8 @@ function App() {
 
   return (
     <>
-      <Wallet/>      
+      {/* <Wallet/>       */}
+      <Home/>
      
     </>
   )
