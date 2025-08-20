@@ -1,4 +1,3 @@
-
 const { createMint } = require('@solana/spl-token');
 const { Keypair, Connection, SystemProgram, Transaction } = require('@solana/web3.js');
 
