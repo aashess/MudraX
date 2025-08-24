@@ -44,7 +44,7 @@ function Home() {
               <br />
               <span className="text-cyan-200 text-base">
                 phrase. Keep your seed phrase safe - it's the only way to
-                recover your wallet.
+                recover your wallet. phrase
               </span>
             </p>
           </div>
